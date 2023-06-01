@@ -5,7 +5,7 @@
 I'm a passionate and dedicated software developer with a strong foundation in JavaScript, React, and database management. As a graduate of the Northcoders Junior Software Developer Bootcamp, I've gained practical experience in building full-stack web applications using modern technologies. I thrive in collaborative environments and enjoy solving complex problems through innovative solutions.
 
 
-🚀 Let's connect and build amazing things together!
+## 🚀 Let's connect and build amazing things together!
 
 ---
 🛠️ Languages and Tools:
